@@ -1,0 +1,2 @@
+# jsderleri
+jsortak
